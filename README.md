@@ -1,1 +1,1 @@
-# CheckPoT_Project
+실내 위치 기반 전자 출결 
