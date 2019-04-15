@@ -1,7 +1,7 @@
 # CheckPoT
 GPS attendance application in Android
  
-# Screenshpts
+# Screenshots
 _____________
 
 <div>
