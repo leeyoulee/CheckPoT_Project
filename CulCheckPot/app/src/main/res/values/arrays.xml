@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="job">
+        <item>학생</item>
+        <item>교수</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2018년도</item>
+        <item>2019년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>2학기</item>
+        <item>하계 계절학기</item>
+        <item>동계 계절학기</item>
+    </string-array>
+
+    <string-array name="day">
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>9:00 "-" 10:00</item>
+        <item>10:00 "-" 11:00</item>
+        <item>11:00 "-" 12:00</item>
+        <item>12:00 "-" 13:00</item>
+        <item>13:00 "-" 14:00</item>
+        <item>14:00 "-" 15:00</item>
+        <item>15:00 "-" 16:00</item>
+        <item>16:00 "-" 17:00</item>
+        <item>17:00 "-" 18:00</item>
+    </string-array>
+
+    <string-array name="university">
+        <item>강릉원주대학교</item>
+        <item>건국대학교</item>
+        <item>배재대학교</item>
+        <item>한국교원대학교</item>
+        <item>한국교통대학교</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>간호학과</item>
+        <item>기계공학과</item>
+        <item>나노소재공학과</item>
+        <item>소프트웨어학과</item>
+        <item>영어영문학과</item>
+        <item>전기공학과</item>
+        <item>항공운항과</item>
+    </string-array>
+
+    <string-array name="grade">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+        <item>4학년</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>전공필수</item>
+        <item>전공선택</item>
+        <item>교양</item>
+        <item>산학</item>
+    </string-array>
+
+    <string-array name="credit">
+        <item>1학점</item>
+        <item>2학점</item>
+        <item>3학점</item>
+    </string-array>
+
+</resources>

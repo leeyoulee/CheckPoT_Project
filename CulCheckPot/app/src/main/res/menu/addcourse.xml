@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".StuMain">
+
+    <!-- 액션 버튼으로써 나타나는 "서치" 아이템  -->
+    <item android:id="@+id/add_item"
+        android:icon="@drawable/ic_action_add"
+        app:showAsAction="always"
+        android:title="@string/action_add" />
+
+</menu>

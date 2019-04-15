@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.culcheckpot.culcheckpot">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_icon"
+        android:label="CHECK PoT"
+        android:roundIcon="@drawable/logo_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".Login"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProMain"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StuMain"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StuCheck"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProCheck"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ProEnroll" />
+        <activity android:name=".ProRevise" />
+        <activity android:name=".ProAttendCheck">
+        </activity>
+    </application>
+
+</manifest>
