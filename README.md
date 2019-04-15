@@ -1,1 +1,6 @@
-실내 위치 기반 전자 출결 
+### CheckPoT
+
+##### GPS attendance application in Android
+ 
+#### Screenshpts
+
